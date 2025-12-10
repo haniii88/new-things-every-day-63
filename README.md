@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 63 */
+/* New Things Every Day — Day 63 */
 /* Creates a unique daily summary object */
 
 function dailyLog63() {
